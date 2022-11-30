@@ -11,7 +11,7 @@ fetch("variables.json")
             <tr>
                 <td>${vari.id}</td>
                 <td>${vari.nombre}</td>
-                <td>${vari.apellido}</td>
+                <td>${vari.apellidos}</td>
             </tr>
         `
     }
